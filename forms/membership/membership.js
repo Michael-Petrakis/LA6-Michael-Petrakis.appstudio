@@ -11,4 +11,7 @@ else { members.push(names)
   lblName.value = names + ", you have been added to the membership rosters."
   }
 }
+Button1.onclick=function(){
+  ChangeForm(calculator)
+}
 
