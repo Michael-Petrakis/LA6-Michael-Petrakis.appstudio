@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 function addTwo(n1, n2) { 
   let answer = n1 + n2
   return answer
@@ -26,4 +27,11 @@ btnReset.onclick=function(){
   lblCalculator.value = ""
   inptNumber1.value = ""
   inptNumber2.value = ""
+=======
+
+btnCalculatorAdd.onclick=function(){
+  let number1 = inptNumber1.value
+  let number2 = inptNumber2.value
+  lblCalculator.value = 
+>>>>>>> Stashed changes
 }

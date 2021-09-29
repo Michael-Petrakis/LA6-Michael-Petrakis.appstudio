@@ -54,6 +54,7 @@
         "Elements",
         "btnCalculatorMultiply.json"
       ]
+<<<<<<< Updated upstream
     },
     {
       "!type": "External",
@@ -63,6 +64,8 @@
         "Elements",
         "btnReset.json"
       ]
+=======
+>>>>>>> Stashed changes
     }
   ],
   "class": "",

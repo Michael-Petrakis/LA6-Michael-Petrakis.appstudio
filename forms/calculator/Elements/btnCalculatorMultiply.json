@@ -35,7 +35,11 @@
   "mLeft": "",
   "mRight": "",
   "mTop": "",
+<<<<<<< Updated upstream
   "onclick": "btnCalculatorMultiply.onclick()",
+=======
+  "onclick": "",
+>>>>>>> Stashed changes
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
