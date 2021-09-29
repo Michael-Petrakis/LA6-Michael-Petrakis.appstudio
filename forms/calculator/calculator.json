@@ -54,6 +54,15 @@
         "Elements",
         "btnCalculatorMultiply.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "btnReset.json"
+      ]
     }
   ],
   "class": "",
