@@ -1,4 +1,4 @@
-
+/*
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 let names = ""
 
@@ -13,3 +13,4 @@ else { members.push(names)
   lblName.value = names + ", you have been added to the membership rosters."
   }
 }
+*/
